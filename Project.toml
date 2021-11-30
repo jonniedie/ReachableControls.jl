@@ -10,6 +10,7 @@ IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
 TaylorModels = "314ce334-5f6e-57ae-acf6-00b6e903104a"
 
 [compat]
+ConcreteStructs = "0.2"
 julia = "1.5"
 
 [extras]
